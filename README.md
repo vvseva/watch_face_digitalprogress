@@ -8,6 +8,6 @@ add ticks and seconds?
 
 ### Demo
 
-[Gif of the watch face](watchface.gif)
+![Gif of the watch face](watchface.gif)
 
 [Figma link](https://www.figma.com/proto/PHAFlySTXcFYMmW5vFWClO/digital-watch-face-with-progress-barr?node-id=2-253&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A253)
